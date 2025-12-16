@@ -18,9 +18,8 @@ The **Dengue Virus Simulator** is a C++ GUI-based simulation project designed to
 ## 🛠️ Technologies Used
 
 * **Programming Language:** C++
-* **GUI Framework:** (Qt / SFML / WinAPI – mention the one you used)
-* **IDE:** Visual Studio / Code::Blocks (optional)
-
+* **GUI Framework:**  WinAPI 
+* **IDE:** Code::Blocks 
 ---
 
 ## ✨ Features
@@ -31,21 +30,7 @@ The **Dengue Virus Simulator** is a C++ GUI-based simulation project designed to
 * Real-time simulation updates
 * Simple and user-friendly interface
 
----
 
-## 📂 Project Structure
-
-```
-Dengue-Virus-Simulator/
-│
-├── src/            # Source files (.cpp)
-├── include/        # Header files (.h)
-├── assets/         # Images / resources (if any)
-├── README.md       # Project documentation
-└── main.cpp        # Main entry point
-```
-
----
 
 ## ▶️ How to Run the Project
 
@@ -58,13 +43,7 @@ Dengue-Virus-Simulator/
 3. Build the project
 4. Run the executable
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots of your GUI here)*
-
----
 
 ## 📚 Use Case
 
