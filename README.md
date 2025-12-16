@@ -64,8 +64,10 @@ The **Dengue Virus Simulator** is a C++ GUI-based simulation project designed to
 
 ## 👨‍🎓 Author
 
-* **Name: Saiful Islam Tanvin
-* **GitHub:** https://github.com/Saiful1253/Dengue-Virus-Simulator-.git
+* **Name:        Saiful Islam Tanvin
+* **GitHub:      https://github.com/Saiful1253/Dengue-Virus-Simulator-.git
+* **Facebook:    https://www.facebook.com/saiful.islam.1699/
+* **Instragram:  https://www.instagram.com/p/DHdrNF1T2fx/
 
 ---
 
